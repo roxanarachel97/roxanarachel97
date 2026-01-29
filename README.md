@@ -4,7 +4,7 @@
 ---
 
 ## 🧬 About Me
-[cite_start]I am a **Bioengineer** [cite: 1] [cite_start]with an **M.Sc. in Computer Science** [cite: 46, 66][cite_start], specializing in the intersection of life sciences and AI-driven analytics[cite: 44]. [cite_start]My expertise lies in developing **Python-based analytical pipelines** for biological and biomedical data[cite: 41, 48].
+[cite_start]I am a **Bioengineer** with an **M.Sc. in Computer Science** [cite: 41, 66][cite_start], specializing in the intersection of life sciences and AI-driven analytics[cite: 44]. [cite_start]My expertise lies in developing **Python-based analytical pipelines** for biological and biomedical data[cite: 41, 48].
 
 [cite_start]With over three years of industry experience in high-stakes environments like medical devices and aerospace [cite: 43][cite_start], I bridge the gap between complex biological data and actionable computational insights[cite: 44].
 
@@ -39,7 +39,7 @@
 ---
 
 ## 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roxana-rachel-valencia-ortega-27613721b/)
+[cite_start][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachelortega) [cite: 9]
 * [cite_start]📍 Ensenada, Baja California, Mexico [cite: 3, 6]
 * [cite_start]📧 **Email:** [roxanarachel@gmail.com](mailto:roxanarachel@gmail.com) [cite: 8]
 
