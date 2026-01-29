@@ -39,7 +39,7 @@ I am a **Bioengineer** [cite: 1, 69] [cite_start]with an **M.Sc. in Computer Sci
 ---
 
 ## 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachelortega)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roxana-rachel-valencia-ortega-27613721b/)
 * [cite_start]📍 Ensenada, Baja California, Mexico [cite: 3, 6]
 * [cite_start]📧 **Email:** [roxanarachel@gmail.com](mailto:roxanarachel@gmail.com) [cite: 8]
 
